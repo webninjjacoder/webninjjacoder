@@ -1,4 +1,4 @@
-### <div align="center">I'm Rizwan Ali, a full-time full-stack developer 👨‍💻 working remotely since 2017🚀</div>  
+### <div align="">I'm Rizwan Ali, a full-time full-stack developer 👨‍💻 working remotely since 2017🚀</div>  
   
 
 - 🔭 I’m currently working as a Full Stack Developer Laravel, React, Vue.js, Next.js, Node.js   
