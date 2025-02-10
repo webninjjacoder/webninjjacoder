@@ -1,13 +1,13 @@
 ### <div align="center">I'm Rizwan Ali, a full-time full-stack developer 👨‍💻 working remotely since 2017🚀</div>  
   
 
-- 🔭 I’m currently working on MERN Stack  
+- 🔭 I’m currently working as a Full Stack Developer Laravel, React, Vue.js, Next.js, Node.js   
   
 
 - 🌱 I’m currently learning GraphQL and AI  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN/PHP/Laravel stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
